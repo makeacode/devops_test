@@ -1,0 +1,4 @@
+- install AWS cli
+- install SAM cli
+- configure AWS credentials
+- sam install --guided
