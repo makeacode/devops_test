@@ -15,8 +15,8 @@ Go to s3 and find the bucket matching the name chosen during install. Upload a s
 
 ## Screenshots
 
-![s3]("./pics/Screenshot 2021-05-14 131558.png")
+![s3](pics/Screenshot%202021-05-14%20131558.png)
 
-![lambda application]("./pics/Screenshot 2021-05-14 132043.png")
+![lambda application](pics/Screenshot%202021-05-14%20132043.png)
 
-![dynamodb]("./pics/Screenshot 2021-05-14 132158.png")
+![dynamodb](pics/Screenshot%202021-05-14%20132158.png)
